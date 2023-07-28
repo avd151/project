@@ -1,2 +1,2 @@
-# db-project
-Airport Management System using ReactJS and Spring Boot
+# project
+ Full stack project using ReactJS and Spring Boot
