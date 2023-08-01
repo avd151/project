@@ -11,6 +11,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  *         initialize.... Standard Launcher application code ...
  */
 @SpringBootApplication
+//@SpringBootApplication(exclude={DataSourceAutoConfiguration.class})
 @ComponentScan(basePackages = "com")
 @EnableScheduling
 public class AirportappsApplication {
